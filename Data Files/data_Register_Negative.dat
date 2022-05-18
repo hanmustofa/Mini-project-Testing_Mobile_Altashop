@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>data_Register_Negative</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>0d178f50-fce0-45f5-acb4-957cbada13c5</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>null hans%40email.com passwordhans123</data>
+   <data>hans123 null passwordhans123</data>
+   <data>hans123 hans%40email.com null</data>
+   <data>%23%23%24%24%25%25%21%21 hans%40email.com passwordhans123</data>
+   <data>hans123 hans%40email.com** passwordhans123</data>
+   <data>hans123 hans%40email.com%2C+hansa%40mail.com+ passwordhans123</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>nama lengkap</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>email</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>password</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

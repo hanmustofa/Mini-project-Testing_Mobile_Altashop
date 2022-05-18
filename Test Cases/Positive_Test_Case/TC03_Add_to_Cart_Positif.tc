@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Add_to_Cart_Positif</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3af7197-3538-498d-a548-709ddd31953c</testCaseGuid>
+</TestCaseEntity>

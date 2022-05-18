@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>data_Login_Negative</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>09fd0ea2-a65f-46e0-bf18-e22b0dd92fa6</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>hans%40gmail.com %26%26%26%26%26123</data>
+   <data>aku%40gmail.com hans123</data>
+   <data>aku%40gmail.com %26%26%26%26%26123</data>
+   <data>email+%27or+%271%27%3D%271+ and+password+%3D+1</data>
+   <data>hans%40gmail.com%2C+aku%40gmail.com hans123</data>
+   <data>hans%40%40gmail%2Ccom null</data>
+   <data>null null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>email</name>
+      <size>7</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>password</name>
+      <size>7</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
